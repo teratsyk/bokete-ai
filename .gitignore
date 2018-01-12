@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.idea
+.DS_Store
+__pycache__/
+img/*
+boketeScrapy/img/*
+!.gitignore
