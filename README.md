@@ -4,7 +4,7 @@
 
 * mac OSX 10.11.6
 * python 3.5
-* conda 4.3.21
+* anaconda 4.4.0
 
 # 環境構築
 
