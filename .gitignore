@@ -3,5 +3,6 @@
 .DS_Store
 __pycache__/
 img/*
+odai/*
 boketeScrapy/img/*
 !.gitignore
